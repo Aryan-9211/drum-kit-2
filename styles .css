@@ -1,0 +1,30 @@
+button {
+  background-color: #5288fd;
+  border: 4px solid black;
+  color: white;
+  padding: 25px 42px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 46px;
+  margin-top: 2rem;
+  cursor: pointer;
+  margin-left: .8rem;
+  border-radius: 6%;
+}
+
+div{
+margin: 250px auto;
+margin-left: 180px;
+display: inline-block;
+}
+
+body{
+  background-image: url("background.jpg");
+}
+
+.pressed{
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+
+}
